@@ -13,3 +13,9 @@ A collection of projects exploring how data can inform decisions in healthcare, 
 ### Approach
 
 Projects follow a structured process: define the question, assess data quality, prepare and analyze the data, and communicate results. Each analysis considers assumptions, limitations, and the practical relevance of its findings.
+
+### Index
+| Project | Description | Links |
+|---------|-------------|-------|
+| NYC Rat Data | This project aims to collect and display visualizations based on rat inspection data from NYC's Open Data repository |[NYC Rat Data Project](https://github.com/russvanfossen/nyc_rats_app) <br> [Link to live Streamlit app](https://nycratsapp-jjfrnac4hdbs37cpkaokba.streamlit.app/) |
+| Preprocessing | Simple Preprocessing notebook | [Simple data preprocessing notebook](https://github.com/russvanfossen/Data_Science_Portfolio/blob/main/preprocessing.ipynb) |
