@@ -18,5 +18,5 @@ Projects follow a structured process: define the question, assess data quality, 
 | Project | Description | Links |
 |---------|-------------|-------|
 | F1 Data Viz | An exploration into collecting telemetry data via API and amalgamating sources to create an aesthetically pleasing visualization. | [Project Repo](https://github.com/russvanfossen/f1_data_viz/) <br> [Streamlit APP](https://f1dataviz-kioxtn7rqkvy5cx6krarj7.streamlit.app/)
-| NYC Rat Data | This project aims to collect and display visualizations based on rat inspection data from NYC's Open Data repository |[NYC Rat Data Project](https://github.com/russvanfossen/nyc_rats_app) <br> [Link to live Streamlit app](https://nycratsapp-jjfrnac4hdbs37cpkaokba.streamlit.app/) |
+| NYC Rat Data | This project aims to collect and display visualizations based on rat inspection data from NYC's Open Data repository |[NYC Rat Data Project](https://github.com/russvanfossen/nyc_rats_app) <br> [Link to live Streamlit app](https://nycratsapp-3elcsvg4tn6ncnmphqgbko.streamlit.app/) |
 | Preprocessing | Simple Preprocessing notebook | [Simple data preprocessing notebook](https://github.com/russvanfossen/Data_Science_Portfolio/blob/main/preprocessing.ipynb) |
